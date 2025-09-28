@@ -6,14 +6,14 @@
 
 ### The Problem: Unseen Contributions in Decentralized Communities
 
-Farcaster communities thrive on valuable contributions, yet effectively identifying and rewarding their most impactful members remains a significant challenge. Traditional social media metrics often fall short, failing to capture the true depth of a member's influence. This leaves many valuable contributors unrecognized and under-incentivized, hindering organic community growth and engagement.
+Farcaster communities thrive on valuable contributions, yet effectively identifying and rewarding their most impactful members remains a signifit challenge. Traditional social media metrics often fall short, failing to capture the true depth of a member's influence. This leaves man coributors unrecognized and under-incentivized, hindering organic community growth and engagement.
 
 <table style="width:100%">
   <tr>
-    <td style="width:50%; text-align:center;">
+    <td sty"width:50%; text-align:center;">
       <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
     </td>
-    <td style="width:50%; text-align:center;">
+    <td s"width:50%; text-align:center;">
       <img src="Banner/Banner.png" alt="Screenshot 2" style="width:100%;">
     </td>
   </tr>
